@@ -80,4 +80,5 @@ def main():
     print_inventory()
 
 
-if __name__ == "__main__": main()
+if __name__ == "__main__": 
+    main()
